@@ -1,3 +1,0 @@
-chess>=1.10
-python-chess>=1.10
-streamlit>=1.30
